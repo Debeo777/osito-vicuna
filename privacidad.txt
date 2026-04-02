@@ -1,0 +1,13 @@
+POLÍTICA DE PRIVACIDAD — OSITO VICUÑA
+
+Esta aplicación NO recopila datos personales.
+
+No tenemos servidores. No guardamos nada. El osito es incapaz de enviar información a ningún lado porque es de peluche digital.
+
+Sin embargo, si en el futuro integramos anuncios o IAP reales, sus respectivos SDKs (AdMob, Google Play, App Store) tendrán sus propias políticas de privacidad, a las que deberás adherirte.
+
+Consulta:
+- Google Play: https://policies.google.com/privacy
+- Apple App Store: https://www.apple.com/legal/privacy/
+
+Última actualización: 2024
